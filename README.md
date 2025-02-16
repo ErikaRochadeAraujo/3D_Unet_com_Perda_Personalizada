@@ -67,6 +67,20 @@ Resumo dos resultados obtidos do melhor treinamento da cada modelo de perda (ECC
 ![tabelaresuldados](https://github.com/user-attachments/assets/7645edef-e56b-43ab-97ed-6e3478e99fd1)
 
 
+## Conclusões
+
+- Foi observado que nos resultado das métricas eficácia da abordagem personalizada.
+
+- Valores de treinamento e validação próximos indicam que modelo tem capacidade de generalizar novos dados com precisão.
+
+- Resultados de perda não sugerem a presença de sobreajuste.
+
+- Considerando todas as fatias, volume total do cérebro, as diferenças encontradas podem ser significativas.
+
+- Foi observado uma capacidade em delimitar regiões de interesse (sensibilidade na identificação de bordas).
+
+- Destaca a importância da escolha da função da perda para o desempenho em segmentação de imagens.
+
 
 
 
